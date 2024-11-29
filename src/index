@@ -4,8 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hola Mundo</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            background-color: #ffe6f2;
+            color: #ff66b2;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            color: #ff3399;
+            margin-bottom: 20px;
+        }
+        .icon {
+            font-size: 50px;
+            color: #ff3399;
+            margin-bottom: 20px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Hola Mundo</h1>
+    <i class="fas fa-heart icon"></i>
+    <h1>Hola me llamo Celine</h1>
 </body>
-</html></html>
+</html>
+<i class="fas fa-star icon"></i>
+<i class="fas fa-smile icon"></i>
